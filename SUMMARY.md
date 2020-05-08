@@ -11,14 +11,6 @@
 * [Choosing a VPS](staking/choosing-a-vps.md)
 * [FAQ'S](staking/faqs.md)
 
-## Tools
-
-* [Telegram](tools/telegram.md)
-* [MobaXterm](tools/mobaxterm.md)
-* [Terminus](tools/terminus.md)
-* [Zabbix](tools/zabbix.md)
-* [Grafana](tools/grafana.md)
-
 ## Projects
 
 * [Elrond](projects/elrond/README.md)
@@ -30,4 +22,12 @@
   * [Migrating your node \(Video\)](projects/elrond/migrating-you-node-video.md)
   * [Monitoring \(Video\)](projects/elrond/monitoring-video.md)
 * [Coming Soon](projects/coming-soon.md)
+
+## Tools
+
+* [Telegram](tools/telegram.md)
+* [MobaXterm](tools/mobaxterm.md)
+* [Terminus](tools/terminus.md)
+* [Zabbix](tools/zabbix.md)
+* [Grafana](tools/grafana.md)
 
