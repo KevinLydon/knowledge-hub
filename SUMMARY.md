@@ -11,6 +11,14 @@
 * [Choosing a VPS](staking/choosing-a-vps.md)
 * [FAQ'S](staking/faqs.md)
 
+## Tools
+
+* [Telegram](tools/telegram.md)
+* [MobaXterm](tools/mobaxterm.md)
+* [Terminus](tools/terminus.md)
+* [Zabbix](tools/zabbix.md)
+* [Grafana](tools/grafana.md)
+
 ## Projects
 
 * [Elrond](projects/elrond/README.md)
