@@ -6,7 +6,9 @@ description: >-
 
 # Installing your node \(Video\)
 
-Now that you've set up your VPS now it's time to install your first node on the Elrond protocol. We will be following the official documentation [seen here](https://docs.elrond.com/validators/install). If you'd like to watch Kevin do this with you step by step you can start by watching the first video below. 
+Now that you've set up your VPS it's time to install your first node\(s\) on the Elrond protocol. We'll be following the official documentation [seen here](https://docs.elrond.com/validators/install). 
+
+If you'd like to watch Kevin do this with you step by step you can start by watching the first video below or just follow the official documentation listed above. 
 
 * [x] S~~etup your VPS~~
 * [ ] **Install your node**
