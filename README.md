@@ -5,7 +5,7 @@ description: >-
   at understanding.
 ---
 
-# Knowledge Hub
+# 🎓 Knowledge Hub
 
 ## Can I become who I want to be?
 

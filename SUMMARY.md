@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Knowledge Hub](README.md)
+* [🎓 Knowledge Hub](README.md)
 
 ## Staking
 
