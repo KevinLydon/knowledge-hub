@@ -1,10 +1,3 @@
----
-description: >-
-  Let's face it, the learning curve in the Blockchain industry is a steep and
-  ever changing one that even the most knowledgable people in the world struggle
-  at understanding.
----
-
 # 🎓 Knowledge Hub
 
 ## Can I become who I want to be?
