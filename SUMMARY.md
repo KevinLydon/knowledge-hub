@@ -5,10 +5,10 @@
 ## Staking
 
 * [What is staking?](staking/what-is-staking.md)
-* [Why delegate?](staking/why-delegate.md)
-* [What is a node?](staking/what-is-a-node.md)
 * [Choosing a Network](staking/choosing-a-network.md)
+* [What is a node?](staking/what-is-a-node.md)
 * [Choosing a VPS](staking/choosing-a-vps.md)
+* [Why delegate?](staking/why-delegate.md)
 * [FAQ'S](staking/faqs.md)
 
 ## Projects
